@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        # take new_str to take only alpha and num chars
         new_str = ""
         for i in s:
             if i.isalnum():
@@ -10,5 +11,6 @@ class Solution:
 
         print(new_str)
         print(new_str[::-1])
-        
+
+        # compare with original 
         return new_str == new_str[::-1]
