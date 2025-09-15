@@ -11,6 +11,7 @@ class Solution:
                 if letter in brokenLetters:
                     canType = False
                     break
+            # check if canType and increment result
             if canType:
                 res += 1
 
