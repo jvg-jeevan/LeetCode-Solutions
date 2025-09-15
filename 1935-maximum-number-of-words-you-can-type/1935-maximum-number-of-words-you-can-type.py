@@ -2,7 +2,7 @@ class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
         text = text.split(" ")
         res = 0
-        # iterate through each word
+
         for word in text:
             # canType to check whether
             canType = True
