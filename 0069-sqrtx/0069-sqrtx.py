@@ -1,5 +1,12 @@
-from math import floor
-
 class Solution:
     def mySqrt(self, x: int) -> int:
-        return floor(x ** 0.5)
+        low, high = 0, x
+        while low <= high:
+            mid = (low + high) // 2
+            if mid * mid == x:
+                return mid
+            elif x < mid*mid:
+                high = mid-1
+            else:
+                low = mid+1
+        return high
