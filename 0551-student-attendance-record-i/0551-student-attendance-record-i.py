@@ -10,4 +10,6 @@ class Solution:
                 late += 1
                 if late >= 3:
                     return False
+            else:
+                late = 0
         return True if absent < 2 else False
