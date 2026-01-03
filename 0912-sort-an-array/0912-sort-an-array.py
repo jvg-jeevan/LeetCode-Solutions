@@ -1,6 +1,17 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        def merge(nums, low, mid, high):
+        # using mergesort
+
+        def mergeSort(low, high):
+            if low >= high:
+                return
+            mid = (low + high) // 2
+            mergeSort(low, mid)
+            mergeSort(mid+1, high)
+            merge(low, mid, high)
+
+
+        def merge(low, mid, high):
             i, j, k = 0, 0, low
             left = nums[low: mid+1]
             right = nums[mid+1: high+1]
@@ -24,12 +35,6 @@ class Solution:
                 j += 1
             return nums
 
-        def mergeSort(nums, low, high):
-            if low < high:
-                mid = (low + high) // 2
-                mergeSort(nums, low, mid)
-                mergeSort(nums, mid+1, high)
-                merge(nums, low, mid, high)
-            return nums
+        mergeSort(0, len(nums)-1)
         
-        return mergeSort(nums, 0, len(nums)-1)
+        return nums
