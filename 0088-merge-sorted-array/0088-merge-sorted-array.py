@@ -3,6 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
+        # same approach as merge operation in merge sort
+        # but iterate from rear end
         i = m-1
         j = n-1
         k = m+n-1
@@ -15,6 +17,7 @@ class Solution:
                 j-=1
             k-=1
 
+        # append only remaining from nums2 as elements from nums1 are already in place
         while j>=0:
             nums1[k] = nums2[j]
             j-=1
