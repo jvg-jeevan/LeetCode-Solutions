@@ -9,6 +9,7 @@ class Solution:
         dummy = ListNode(0)
         dummy.next = head
         
+        # check if next element of the cur is in nums if yes then assign cur.next with the next nodes address
         cur = dummy
         while cur.next != None:
             if cur.next.val in nums_set:
