@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -45,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
