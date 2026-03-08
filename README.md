@@ -56,12 +56,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
+| [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
+| [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +72,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
