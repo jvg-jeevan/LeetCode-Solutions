@@ -5,6 +5,7 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        # merge sort 
         if head == None or head.next == None:
             return head
 
