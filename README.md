@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +109,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
