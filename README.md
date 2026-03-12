@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
