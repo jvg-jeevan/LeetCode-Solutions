@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0292-nim-game](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
