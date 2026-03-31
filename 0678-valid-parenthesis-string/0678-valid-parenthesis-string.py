@@ -1,5 +1,8 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
+        # greedy
+        # low  = minimum possible '('
+        # high = maximum possible '('
         low = 0
         high = 0
 
