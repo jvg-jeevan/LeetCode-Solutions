@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
