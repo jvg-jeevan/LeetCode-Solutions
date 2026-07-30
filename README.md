@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
