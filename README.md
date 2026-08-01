@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0292-nim-game](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0382-linked-list-random-node](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1622-fancy-sequence](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 ## Recursion
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -127,12 +129,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -195,4 +199,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
