@@ -211,4 +211,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 <!---LeetCode Topics End-->
