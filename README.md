@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -215,16 +216,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
