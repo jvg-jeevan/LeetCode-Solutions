@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -218,18 +220,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
