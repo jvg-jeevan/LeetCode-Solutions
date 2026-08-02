@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0147-insertion-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -247,4 +251,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
