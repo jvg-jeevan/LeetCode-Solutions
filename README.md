@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,4 +267,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
