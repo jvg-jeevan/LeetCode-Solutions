@@ -6,7 +6,8 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        
+        # using DFS technique taking -inf and +inf as ranges
+        # for each node checking that it not reaches the limit and moving to next subtree
 
         def checkDFS(node, low, high):
             if node == None:
