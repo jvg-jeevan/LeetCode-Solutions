@@ -7,6 +7,10 @@
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
 
+        # bottom up dfs approach 
+        # like taking height of the tree from bottom 
+        # node will return the height if abs(left - right) > 1 then false
+
         def height(node):
 
             if node == None:
