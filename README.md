@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [3731-find-missing-elements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3731-find-missing-elements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3731-find-missing-elements](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
