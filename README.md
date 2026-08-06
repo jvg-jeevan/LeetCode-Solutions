@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1622-fancy-sequence](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
