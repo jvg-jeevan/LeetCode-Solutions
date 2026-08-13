@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0476-number-complement](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0078-subsets](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
