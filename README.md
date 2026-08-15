@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0147-insertion-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
