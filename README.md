@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0202-happy-number](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0382-linked-list-random-node](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -130,12 +131,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0202-happy-number](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -303,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
