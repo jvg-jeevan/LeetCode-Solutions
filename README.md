@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
