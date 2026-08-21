@@ -312,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
