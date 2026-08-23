@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0147-insertion-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/jvg-jeevan/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
