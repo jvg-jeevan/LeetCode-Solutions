@@ -4,9 +4,9 @@ class Solution:
         nums.sort()
         n = len(nums)
         res = []
-        
+# 1st element i and rest usign 2 pointer approach
         for i in range(n - 2):
-            
+# if duplicate in the the entry skip the iteration
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
@@ -15,28 +15,30 @@ class Solution:
             if nums[i] > 0:
                 break
 
-
             left = i + 1
             right = n - 1
 
             while left < right:
 
                 total = nums[i] + nums[left] + nums[right]
-
+# if total is < 0 then move to next element i.e the element larger
                 if total < 0:
                     left += 1
-
+# if total is > 0 then move to next element i.e the element smaller
                 elif total > 0:
                     right -= 1
 
                 else:
                     res.append([nums[i], nums[left], nums[right]])
-                    
+
+# checking for remaining elements if same elements then move forward 
                     while (left < right) and (nums[left] == nums[left + 1]):
                         left += 1
+# checking for remaining elements if same elements then move backward
                     while (left < right) and (nums[right] == nums[right - 1]):
                         right -= 1
-                    
+
+# checking for remaining elements
                     left += 1
                     right -= 1
         
